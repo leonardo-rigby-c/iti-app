@@ -24,7 +24,13 @@ npm run test:unit
 ```
 npm run lint
 ```
-
+###dependecias instaladas
+  - Bootstrap
+  
+  -Font Awesome
+  
+  -axios
+  
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
