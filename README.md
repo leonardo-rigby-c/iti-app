@@ -31,6 +31,10 @@ npm run lint
   
   -axios
   
+  -firebase:
+  
+  npm install --save firebase
+  
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
